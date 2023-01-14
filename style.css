@@ -1,0 +1,25 @@
+:root{
+    --bold: 600;
+    --body-background:rgb(240, 250, 255);
+    --body-text-color: rgb(0, 50, 75);
+
+}
+
+body{
+    font-family: sans-serif;
+    max-width: 900px;
+    margin: auto;
+    background:var(--body-background);
+    color: var(--body-text-color);
+
+}
+
+dt{
+    font-weight: var(--bold);
+    text-decoration: underline;
+}
+
+dd{
+    font-style: italic;
+    font-weight: var(--bold);
+}

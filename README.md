@@ -1,5 +1,5 @@
 # Pragmatic-Theism
-A convenient and sufficiently nerdy place to collect my thoughts, assumptions, and beliefs.
+A convenient and sufficiently nerdy place to collect my thoughts, assumptions, and beliefs. I'll use this file as a staging area for content.
 
 ## Some Disclaimers
 - While I will use the Bible and potentially other sacred texts, I don't here feel constrained to conform to what may be appropriate exegesis in other settings. I will not be justifying or arguing with anyone but myself.
