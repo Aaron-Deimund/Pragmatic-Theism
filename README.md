@@ -6,7 +6,7 @@ A convenient and sufficiently nerdy place to collect my thoughts, assumptions, a
 
 ## Seems like a good idea to define some terms, especially the squishy ones.
 
-###Faith
+### Faith
 -The affirmation of something hoped for or a belif in something emperically unobservable.
 For me, it's easiest to start with the Bible and adapt from Hebrews 11:1. Even here there are signifigant differences in translations.
   
