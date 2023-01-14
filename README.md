@@ -8,5 +8,6 @@ A convenient and sufficiently nerdy place to collect my thoughts, assumptions, a
 
 ### Faith
 -The affirmation of something hoped for or a belif in something emperically unobservable.
+
 For me, it's easiest to start with the Bible and adapt from Hebrews 11:1. Even here there are signifigant differences in translations.
   
